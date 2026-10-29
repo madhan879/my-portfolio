@@ -1,0 +1,8 @@
+# Local env
+.DS_Store
+node_modules/
+.vite/
+.env
+
+# OS artifacts
+Thumbs.db
